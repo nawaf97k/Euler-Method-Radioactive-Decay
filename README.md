@@ -10,4 +10,6 @@ Uranium Quantity = intial Uranium Quantity * exp(-Time / Decay Constant).
 
 - The smaller the time increment "dt", the more simillar the numerical result to the analytical becomes.
 
+HarmonicOscillator.m is the main script where you run the simulation. Each numerical method function is seperated in a different .m file.
+
 Reference Used: Computational Physics 2nd Edition - Nicholas J. Giordano and Hisao Nakanishi
