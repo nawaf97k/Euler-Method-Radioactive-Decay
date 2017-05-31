@@ -10,6 +10,7 @@ Uranium Quantity = intial Uranium Quantity * exp(-Time / Decay Constant).
 
 - The smaller the time increment "dt", the more simillar the numerical result to the analytical becomes.
 
+
 The simulation produces 5 figures:
  1. Comparing Angle vs Time of the three methods to the analytical solution.
  2. Comparing the Angular Velocity Vs Time calculation of the three methods.
